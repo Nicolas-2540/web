@@ -1,0 +1,52 @@
+body {
+    background-color: #1a1a1a;
+    font-size: 17px;
+    color: #f0f0f0;
+}
+
+#titulo-principal {
+    background-color: #333333;
+    font-size: 28px;
+    color: #ffcc00;
+}
+
+.seccion {
+    background-color: #222222;
+    font-size: 17px;
+    color: #dddddd;
+}
+body {
+    background-color: #1a1a1a;
+    font-size: 17px;
+    color: #f0f0f0;
+}
+
+#titulo-principal {
+    background-color: #333333;
+    font-size: 28px;
+    color: #ffcc00;
+}
+
+.seccion {
+    background-color: #222222;
+    font-size: 17px;
+    color: #dddddd;
+}
+
+.rojo {
+    background-color: #330000;
+    font-size: 17px;
+    color: #ff6666;
+}
+
+.verde {
+    background-color: #003300;
+    font-size: 17px;
+    color: #66ff66;
+}
+
+.azul {
+    background-color: #000033;
+    font-size: 17px;
+    color: #9999ff;
+}

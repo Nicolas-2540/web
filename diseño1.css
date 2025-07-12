@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f4f4;
+    font-size: 16px;
+    color: #222222;
+}
+
+#titulo-principal {
+    background-color: #e0e0e0;
+    font-size: 30px;
+    color: #003366;
+}
+
+.seccion {
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #333333;
+}
+
+.rojo {
+    background-color: #ffe6e6;
+    font-size: 16px;
+    color: #990000;
+}
+
+.verde {
+    background-color: #e6ffe6;
+    font-size: 16px;
+    color: #006600;
+}
+
+.azul {
+    background-color: #e6e6ff;
+    font-size: 16px;
+    color: #000099;
+}
